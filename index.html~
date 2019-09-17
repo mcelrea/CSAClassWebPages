@@ -1,0 +1,53 @@
+<html>
+
+</head>
+<link rel="stylesheet" href="stylesheet.css">
+<title>Los Angeles Galaxy Fan Page</title>
+</head>
+
+<body>
+
+<div class="topnav">
+<a href="">Home</a>
+<a href="">Pictures</a>
+<a href="">Memorable Moments</a>
+<a href="">My Hall of Fame</a>
+</div>
+
+<div class="header">
+<h1>Los Angeles Galaxy</h1>
+</div>
+
+Welcome to my Los Angeles Galaxy Fan Page. I will post some content here.
+Welcome to my Los Angeles Galaxy Fan Page. I will post some content here.
+Welcome to my Los Angeles Galaxy Fan Page. I will post some content here.
+Welcome to my Los Angeles Galaxy Fan Page. I will post some content here.
+Welcome to my Los Angeles Galaxy Fan Page. I will post some content here.
+Welcome to my Los Angeles Galaxy Fan Page. I will post some content here.
+</br>
+
+<div class="column">
+<center>
+<img src="images/galaxyLogo.jpg" width="350"/>
+<h2>Pictures</h2>
+</center>
+</div>
+
+<div class="column">
+<center>
+<img src="images/zlatan.jpeg" width="350"/>
+<h2>Memorable Moments</h2>
+</center>
+</div>
+
+<div class="column">
+<center>
+<img src="images/donovan.jpg" width="350"/>
+<h2>My Hall of Fame</h2>
+</center>
+</div>
+
+
+</body>
+
+</html>
